@@ -1,8 +1,8 @@
-title:            Site title
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Jiawei Gao
+tagline:          = =||
+description:      Meow
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: http://jiaweigao.github.io
 
 # Owner/author information
 owner:
@@ -27,15 +27,12 @@ tools:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: 
-    external: true
-  - title: Cole Who?
+  - title: O_O
     url: 
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
