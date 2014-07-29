@@ -6,21 +6,17 @@ url: http://jiaweigao.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  name:           Jiawei Gao
+  avatar:         avatar1.png
+  bio:            "..."
+  email:          ?@?.com
+  twitter:        gaojiawei   
+  location:       "San Diego, CA"
   # Plug in your disqus shortname!
 
 tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
+  standards:      "..."
+  software:       "..."
 
 # Links to include in top navigation
 # For external links add external: true
