@@ -47,11 +47,17 @@
 		border-collapse: collapse;
 		border-spacing: 0; }
 
+	p {color: #111111;}
+	a {
+		color: #cc0000;
+		text-decoration: none;
+	}
+
 
 /* #Basic Styles
 ================================================== */
-	body {
-		background: #fff;
+	body{
+		/*background: #fff;*/
 		font: 22px/25px;
         font-family: Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 		color: #444;
@@ -98,9 +104,8 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { text-decoration: underline; outline: 0; }
-	a:hover, a:focus { }
-	p a, p a:visited { line-height: inherit; }
+	
+	/*p a, p a:visited { line-height: inherit; }*/
 
 
 /* #Lists
@@ -319,6 +324,28 @@ span.lineno {
 	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+.home-alignleft
+{
+	text-align: left;
+	width: 240px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.home-icons
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home-icons a
+{
+	margin-left: 10px;
+	margin-right:10px;
+	color: #3333cc;
+	font-size: 27px;
 }
 
 .hll { background-color: #49483e }

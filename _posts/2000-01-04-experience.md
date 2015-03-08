@@ -1,7 +1,6 @@
 ---
 title: "Experience"
 bg: '#DDDDFF'
-color: black
 fa-icon: graduation-cap
 ---
 

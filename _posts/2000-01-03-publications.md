@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 bg: '#FFF4C1'
-color: black
 fa-icon: book
 ---
 
