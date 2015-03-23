@@ -117,8 +117,8 @@
 	ul ul, ul.circle { list-style: circle outside; }
 	ul ul ul, ul.disc { list-style: disc outside; }
 	ul ul li, ul ol li,
-	ol ol li, ol ul li { margin-bottom: 6px; }
-	li { line-height: 30px; margin-bottom: 12px; }
+	ol ol li, ol ul li { margin-bottom: 0px; }
+	li { line-height: 30px; margin-bottom: 0px; }
 	ul.large li { line-height: 21px; }
 	li p { line-height: 21px; }
 
