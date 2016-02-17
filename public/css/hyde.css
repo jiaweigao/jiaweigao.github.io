@@ -75,6 +75,17 @@ html {
   color: #fff;
 }
 
+.sidebar .myicons a {
+  color: #fff;
+  margin-right: 5px;
+  font-size: 1.2rem;
+}
+
+.sidebar .myicons a:hover{
+  color: #ff9999;
+  text-decoration: none;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -93,6 +104,7 @@ html {
 .sidebar-nav {
   margin-bottom: 1rem;
 }
+
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
