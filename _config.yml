@@ -1,27 +1,19 @@
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-### content configuration ###
-title:       "Jiawei Gao"
-keywords:    "Jiawei Gao, ucsd"
-description: "homepage"
-source_link: "http://jiaweigao.com"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: 
+# Setup
+title:            Jiawei Gao
+tagline:          Jiawei Gao's Homepage
+description:      
+url:              http://jiaweigao.com
+baseurl:          /
 
+author:
+  name:           'Jiawei Gao'
 
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+paginate:         5
