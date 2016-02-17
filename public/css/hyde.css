@@ -57,7 +57,8 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #ff6666;
+  /*background-color: #ff6666;*/
+  background-color: #034262;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -72,32 +73,36 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  /*color: #fff;*/
+  color: #ffd635;
 }
 
 .sidebar .myicons a {
-  color: #fff;
+  /*
+  color: #fff;*/
+  color: #ffd635;
   margin-right: 5px;
   font-size: 1.2rem;
 }
 
-.sidebar .myicons a:hover{
+.sidebar a:hover{
   color: #ff9999;
   text-decoration: none;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  /*color: #fff;*/
+  color: #ffd635;
   margin-top: 0;
-  font-family: 'Merienda One', "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 2rem;
 }
 
 .sidebar-about p {
   font-size:1rem;
   line-height: 1.2rem;
-  color: #ffcccc;
+  /*color: #ffcccc;*/
 }
 
 /* Sidebar nav */
@@ -111,7 +116,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -129,6 +134,9 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
+    /*height: 450px;
+    position: relative;
+    top: 50%;*/
   }
 }
 
