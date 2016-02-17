@@ -10,14 +10,14 @@ permalink: CV.html
 
 2013 Bachelor's Degree in Software Engineering @Fudan University
 
-##Teaching Assistantships
+## Teaching Assistantships
 
-####UC San Diego
+#### UC San Diego
 
 2016 Winter - Computability and Complexity (graduate)
 
 2015 Spring - Discrete Mathematics for Computer Science (undergrad)
 
-####Fudan University
+#### Fudan University
 
 2012 Fall - Introduction to Computer Systems II (undergrad)
