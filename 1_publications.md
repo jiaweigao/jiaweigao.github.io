@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Publications
+permalink: publications.html
 ---
-
-#Publications
 
 ###2016
 - [Nondeterministic extensions of the Strong Exponential Time Hypothesis and consequences for non-reducibility.](http://eccc.hpi-web.de/report/2015/148/) Marco L. Carmosino, Jiawei Gao, Russell Impagliazzo, Ivan Mikhailin, Ramamohan Paturi, Stefan Schneider **(ITCS 2016)**
