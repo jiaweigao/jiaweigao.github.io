@@ -59,8 +59,8 @@ html {
 }
 
 body {
-  color: #7c4e8e;
-  background-color: #ffffef;
+  color: #3b3a36;
+  background-color: #e9ece5;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #16335b;
+  color: #8F9B98;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -109,9 +109,9 @@ p {
   margin-bottom: 1rem;
 }
 
-strong {
-  color: #5b2310;
-}
+/*strong {
+  color: #333333;
+}*/
 
 
 /* Lists */
@@ -337,7 +337,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #5b2310;
+  color: #3b3a36;
 }
 .page-title,
 .post-title {

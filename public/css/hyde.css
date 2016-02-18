@@ -56,9 +56,9 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  /*background-color: #ff6666;*/
-  background-color: #7c4e8e;
+  /*color: rgba(255,255,255,.5);*/
+  color: #d9cab3;
+  background-color: #3b3a36;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -73,26 +73,26 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #ffb7d7;
+  color: #c0dfd9;
 }
 
 .sidebar .myicons a {
   /*
   color: #fff;*/
-  color: #ffb7d7;
+  color: #c0dfd9;
   margin-right: 5px;
   font-size: 1.2rem;
 }
 
 .sidebar a:hover{
-  color: #D6FFFA;
+  color: #D9cab3;
   text-decoration: none;
 }
 
 /* About section */
 .sidebar-about h1 {
   /*color: #fff;*/
-  color: #ffb7d7;
+  color: #c0dfd9;
   margin-top: 0;
   font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 2rem;
