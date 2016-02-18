@@ -118,6 +118,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+  color: #D9cab3;
 }
 
 /* Sticky sidebar
