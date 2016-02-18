@@ -58,7 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   /*background-color: #ff6666;*/
-  background-color: #034262;
+  background-color: #7c4e8e;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -73,27 +73,26 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  /*color: #fff;*/
-  color: #ffd635;
+  color: #ffb7d7;
 }
 
 .sidebar .myicons a {
   /*
   color: #fff;*/
-  color: #ffd635;
+  color: #ffb7d7;
   margin-right: 5px;
   font-size: 1.2rem;
 }
 
 .sidebar a:hover{
-  color: #ff9999;
+  color: #D6FFFA;
   text-decoration: none;
 }
 
 /* About section */
 .sidebar-about h1 {
   /*color: #fff;*/
-  color: #ffd635;
+  color: #ffb7d7;
   margin-top: 0;
   font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 2rem;
@@ -102,7 +101,6 @@ html {
 .sidebar-about p {
   font-size:1rem;
   line-height: 1.2rem;
-  /*color: #ffcccc;*/
 }
 
 /* Sidebar nav */
