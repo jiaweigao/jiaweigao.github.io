@@ -12,3 +12,5 @@ author:
   name:           'Jiawei Gao'
 
 paginate:         5
+
+gems: [jekyll-paginate]
