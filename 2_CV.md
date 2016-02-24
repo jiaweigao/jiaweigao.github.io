@@ -6,6 +6,7 @@ permalink: CV.html
 
 ## Education
 
+- **Since 2013** - Ph.D. Student in Computer Science @UC San Diego
 - **2015** - Master's Degree in Computer Science *@UC San Diego*
 - **2013** - Bachelor's Degree in Software Engineering *@Fudan University*
 
