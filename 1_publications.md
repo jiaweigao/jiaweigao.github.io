@@ -6,7 +6,7 @@ permalink: publications.html
 
 ### In progress
 
-- [Orthogonal Vectors is hard for first-order properties on sparse graphs.]() Jiawei Gao, Russell Impagliazzo. [(Talk at Simons Institute)](https://simons.berkeley.edu/talks/jaiwei-gao-2015-12-03)
+- [Orthogonal Vectors is hard for first-order properties on sparse graphs.](http://eccc.hpi-web.de/report/2016/053/) Jiawei Gao, Russell Impagliazzo. [(Talk at Simons Institute)](https://simons.berkeley.edu/talks/jaiwei-gao-2015-12-03)
 
 ### 2016
 
