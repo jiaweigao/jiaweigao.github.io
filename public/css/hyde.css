@@ -56,9 +56,9 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: #87C4ED;
   /*color: #d9cab3;*/
-  background-color: #3b3a36;
+  background-color: #224675;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -67,7 +67,7 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: left;
+    /*text-align: left;*/
   }
 }
 
@@ -92,7 +92,7 @@ html {
 /* About section */
 .sidebar-about h1 {
   /*color: #fff;*/
-  color: #c0dfd9;
+  color: #FF9ABC;
   margin-top: 0;
   font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 2rem;
