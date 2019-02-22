@@ -1,22 +1,20 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <img src="photo.jpg" style='height: 60%; width: 60%; object-fit: contain'>
+      <br>
       <h1>
         <!--<a href="{{ site.baseurl }}">-->
           {{ site.title }}
         <!--</a>-->
       </h1>
-      <p>Ph.D. Student<br>
+      <p>Ph.D. Candidate<br>
       Computer Science<br>
       UC San Diego</p>
-      <p><b>Email:</b> jiawei <i class="fa fa-at"></i> ucsd.edu<br>
-      <b>Office:</b> EBU3B 4242</p>
+      <p>jiawei <i class="fa fa-at"></i> ucsd.edu<br>
 
 
     </div>
-
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -24,21 +22,6 @@
       {% endcomment %}
 
 
-      {% assign pages_list = site.pages | sort:"name" %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-    </nav>
-
-    <div class="myicons">
-    <a href="https://www.facebook.com/jiawei.gao.0"><i class="fa fa-facebook-square"></i>
-    <a href="https://twitter.com/gao_jiawei"><i class="fa fa-twitter-square"></i></a>
-    <a href="https://plus.google.com/u/0/+JiaweiGao/posts"><i class="fa fa-google-plus-square"></i></a>
-    </div>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
