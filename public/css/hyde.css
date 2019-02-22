@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 @media (min-width: 48em) {
   html {
@@ -94,7 +94,7 @@ html {
   /*color: #fff;*/
   color: #FF9ABC;
   margin-top: 0;
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 2rem;
 }
 
